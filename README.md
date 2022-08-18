@@ -30,7 +30,7 @@ WidgetSpinner Security (general concept + overview) - Monitoring threats
     - How WidgetSpinner Security Works 
 - Troubleshooting
 
-IMAGE
+<img width="372" alt="image" src="https://user-images.githubusercontent.com/28788585/185500415-8ff39704-06e5-443c-a658-0dab986d5484.png">
 
 ## Sections detailed description
 
