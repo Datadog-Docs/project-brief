@@ -1,8 +1,8 @@
 # Add WidgetSpinner Security to Public Docs – Project Brief
 
-_Last update:_ Jan 6, 2025
-_Status:_ review  {draft|review|accepted}
-_Authors:_ Sarah Jessica Barker, Senior PM, WidgetSpinner Security
+- _Last update:_ Jan 6, 2025
+- _Status:_ review  {draft|review|accepted}
+- _Authors:_ Sarah Jessica Barker, Senior PM, WidgetSpinner Security
 
 ## Context
 
